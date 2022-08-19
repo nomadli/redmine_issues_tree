@@ -8,11 +8,11 @@ end
 
 Redmine::Plugin.register plugin_name do
   name 'Redmine Issues Tree plugin'
-  author 'Ivan Zabrovskiy'
+  author 'nomadli'
   description 'Provides a tree view of the issues list'
   version RedmineIssuesTree::Version::VERSION
-  url 'https://github.com/Loriowar/redmine_issues_tree'
-  author_url 'https://loriowar.com/about'
+  url 'https://github.com/nomadli/redmine_issues_tree'
+  author_url 'https://nomadli.github.io'
 
   settings partial: 'settings/redmine_issues_tree',
            default: {
