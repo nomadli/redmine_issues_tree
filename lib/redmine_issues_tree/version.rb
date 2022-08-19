@@ -1,3 +1,3 @@
-module RedmineIssuesTree
-  VERSION = '0.0.10'
+module RedmineIssuesTree::Version
+  VERSION = '0.0.14'
 end

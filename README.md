@@ -1,15 +1,12 @@
-# RedmineIssuesTree
+# RedmineIssuesTree [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KGN52ZXA8J7B8)
 
 This is a plugin for [Redmine](http://www.redmine.org/). It's provides a tree view of the issues list.
 [Official page on Redmine.org](https://www.redmine.org/plugins/redmine_issues_tree).
 
 ## Compatibility
 
-**!!!DO NOT USE THIS BRANCH!!!**
-Please, use a branch with name corresponding to your
-Redmine version i.e. `4.1.x`, `3.2.x` and so on.
-
 Plugin tested with `4.1.x`, `4.0.x`, `3.4.x`, `3.3.x`, `3.2.x`, `3.1.x`, `3.0.x`, `2.6.x` and `2.5.x` versions of Redmine.
+But this branch of plugin must be used only with Redmine `4.1.x`. 
 
 ## Features
 
@@ -21,12 +18,12 @@ speed of this feature related with amount of issues in project and in case of >1
 
 ## Support
 
-Features are added only for `4.x` and `3.x` versions. Bugfix and locales available for all version from `2.6.x` and higher. 
+Features are added only for `3.x` and `4.x` versions. Bugfix and locales available for all version from `2.6.x` and higher. 
 
 ## Usage
 
-This is a `master` branch. DO NOT USE THIS BRANCH. Please, use a branch with name corresponding to your
-Redmine version i.e. `3.3.x`, `3.2.x` and so on.
+This branch of plugin tested with `4.0.x` version of the Redmine.
+If you have other version of the Redmine (for example, `2.*`), please, select another branch of this plugin.
 
 ## Examples of interface
 
